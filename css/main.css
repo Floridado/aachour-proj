@@ -423,3 +423,7 @@ h1#logo a {
 #footer .rf {
   float: right;
 }
+
+.form {
+  margin-top: 30px;
+}
